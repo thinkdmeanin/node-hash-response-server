@@ -1,0 +1,27 @@
+{
+  "name": "node-hash-response-server",
+  "version": "0.0.0",
+  "description": "respond hash value to request parameter",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thinkdmeanin/node-hash-response-server.git"
+  },
+  "keywords": [
+    "hash",
+    "node"
+  ],
+  "author": "Joseph Shing",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thinkdmeanin/node-hash-response-server/issues"
+  },
+  "homepage": "https://github.com/thinkdmeanin/node-hash-response-server",
+  "dependencies": {
+    "express": "^4.13.4",
+    "utility": "^1.6.0"
+  }
+}
